@@ -1,2 +1,4 @@
-data,amount,category,description
+date,amount,category,description
 20-07-2024,125.65,Income,Salary
+05-08-2024,150.0,Income,I
+01-09-2024,150.0,Expense,Gaming
